@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "node cli.js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jwalkerlusd/hello-world.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwalkerlusd/hello-world/issues"
+  },
+  "homepage": "https://github.com/jwalkerlusd/hello-world#readme"
+}
